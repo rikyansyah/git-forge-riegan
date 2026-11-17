@@ -1,3 +1,21 @@
+# git-forge-riegan
+
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/rikyansyah/git-forge-riegan/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/rikyansyah/git-forge-riegan/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
+A from-scratch GitHub-compatible git forge: git smart HTTP, REST v3, GraphQL v4 and MCP in one Node 22 process, stdlib only.
+
+## Run it
+
+```sh
+node --experimental-strip-types main.ts
+```
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=vrsa6rr4&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards
+
 # gitforge — a GitHub-compatible git forge
 
 A from-scratch implementation of a GitHub-compatible forge for the
